@@ -1,31 +1,416 @@
-# 💫 About Me:
-text I'm a Software Developer who enjoys turning ideas into clean, useful and modern digital experiences. 💻 Frontend → Angular • TypeScript • JavaScript ⚙️ Backend → C# • .NET • ASP.NET Core Web API 🗄️ Database → SQL Server • REST APIs 🎨 Design → Figma • UI/UX ☁️ Cloud → Microsoft Azure 🛠️ Tools → Git • GitHub • Visual Studio • VS Code
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=220&section=header&text=V.%20Enok%20Bilshan&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/enokstack-09) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Venok bilshan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/e_b_bilshan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@V Enok Bilshan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Enokeb_09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venokbilshan@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Modern+Digital+Experiences+%F0%9F%9A%80;Angular+%2B+ASP.NET+Core+Developer+%E2%9A%99%EF%B8%8F;Clean+Code+%7C+Modern+UI+%7C+Scalable+Systems;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%94%A5" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=enokstack-09&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=enokstack-09&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=enokstack-09&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=enokstack-09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Profile Views](https://komarev.com/ghpvc/?username=enokstack-09\&label=PROFILE+VIEWS\&color=0ea5e9\&style=for-the-badge)](https://github.com/enokstack-09)
+![GitHub followers](https://img.shields.io/github/followers/enokstack-09?style=for-the-badge\&logo=github\&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/enokstack-09?style=for-the-badge\&logo=github\&label=Stars)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=enokstack-09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=enokstack-09&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/venokbilshan@gmail.com) 
+# 👨‍💻 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a **Software Developer** who enjoys transforming ideas into clean, useful, scalable, and modern digital experiences.
+
+I enjoy working across **frontend development, backend APIs, databases, cloud technologies, and UI/UX design**.
+
+```text
+💻 Frontend    → Angular • TypeScript • JavaScript • HTML • CSS
+⚙️ Backend     → C# • .NET • ASP.NET Core Web API
+🗄️ Database    → SQL Server • MySQL • Supabase • Firebase
+🔗 APIs         → REST APIs • Web API Integration
+🎨 Design       → Figma • UI/UX • Canva • Adobe
+☁️ Cloud        → Microsoft Azure • Vercel • Firebase
+🛠️ Tools        → Git • GitHub • Visual Studio • VS Code
+```
+
+### 🚀 What I'm Focused On
+
+* 🔭 Building modern **full-stack applications**
+* 🌱 Improving my **Angular & ASP.NET Core** skills
+* 🧠 Learning better **software architecture & clean coding practices**
+* 🎨 Creating modern and user-friendly **UI/UX experiences**
+* ☁️ Exploring **Azure & cloud deployment**
+* 🤖 Interested in **AI-assisted software development**
+* 📈 Continuously learning, building, debugging, and improving
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge\&logo=bluesky\&logoColor=white)](https://bsky.app/profile/enokstack-09)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/Venok%20bilshan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/e_b_bilshan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@V%20Enok%20Bilshan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Enokeb_09)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:venokbilshan@gmail.com)
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind" />
+</p>
+
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge\&logo=daisyui\&logoColor=white)
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,python,fastapi" />
+</p>
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+---
+
+## 📱 Mobile Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,react" />
+</p>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+---
+
+## 🗄️ Databases & Backend Services
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase" />
+</p>
+
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,vercel,firebase" />
+</p>
+
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
+
+---
+
+## 🎨 Design & Creative Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge\&logo=adobelightroom\&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge\&logo=sketch\&logoColor=black)
+
+---
+
+## 🛠️ Development & Productivity Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+
+---
+
+## 🧠 Additional Technologies
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge\&logo=wordpress\&logoColor=white)
+
+---
+
+# 🏗️ What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Frontend Applications
+
+I build modern and responsive interfaces using:
+
+* Angular
+* TypeScript
+* JavaScript
+* HTML & CSS
+* Bootstrap
+* Tailwind CSS
+* REST API Integration
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend Systems
+
+I develop structured backend applications using:
+
+* C#
+* .NET
+* ASP.NET Core Web API
+* REST APIs
+* SQL Server
+* Authentication & Authorization
+* Service-based architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 UI / UX
+
+I enjoy designing interfaces that are:
+
+* Clean
+* Modern
+* Responsive
+* User-friendly
+* Accessible
+* Consistent
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Deployment
+
+I'm exploring and working with:
+
+* Microsoft Azure
+* Vercel
+* Firebase
+* GitHub
+* Cloud Deployment
+* CI/CD concepts
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 My Development Approach
+
+<div align="center">
+
+```text
+                 💡 IDEA
+                    │
+                    ▼
+              🔍 ANALYZE
+                    │
+                    ▼
+              🎨 DESIGN
+                    │
+                    ▼
+               💻 BUILD
+                    │
+                    ▼
+               🐛 DEBUG
+                    │
+                    ▼
+               🧪 TEST
+                    │
+                    ▼
+              🔧 IMPROVE
+                    │
+                    ▼
+               🚀 DEPLOY
+                    │
+                    ▼
+              📈 KEEP LEARNING
+```
+
+</div>
+
+---
+
+# 🏛️ Full-Stack Architecture
+
+```text
+┌─────────────────────────────┐
+│         USER / CLIENT       │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│       ANGULAR FRONTEND      │
+│   TypeScript • HTML • CSS   │
+└──────────────┬──────────────┘
+               │
+               │ HTTPS / REST API
+               ▼
+┌─────────────────────────────┐
+│     ASP.NET CORE WEB API    │
+│            C# / .NET        │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│     BUSINESS / SERVICES     │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│        DATA ACCESS          │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│         SQL SERVER          │
+└─────────────────────────────┘
+```
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| 🔥 Angular | ⚙️ ASP.NET Core | 🧠 Architecture | ☁️ Azure | 🎨 UI/UX |
+| :--------: | :-------------: | :-------------: | :------: | :------: |
+|  Frontend  |     Backend     |    Clean Code   |   Cloud  |  Design  |
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+⚡ Advanced Angular
+⚡ ASP.NET Core Web API
+⚡ Entity Framework Core
+⚡ Clean Architecture
+⚡ REST API Design
+⚡ SQL & Database Design
+⚡ Microsoft Azure
+⚡ Git & GitHub
+⚡ Modern UI/UX
+⚡ AI-Assisted Development
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=enokstack-09&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=enokstack-09&theme=blue_navy&hide_border=true" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=enokstack-09&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=enokstack-09&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" />
+
+</div>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=enokstack-09&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+</div>
+
+---
+
+# ✍️ Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+<div align="center">
+
+> **"Learn. Build. Break. Debug. Improve. Repeat."**
+
+<br/>
+
+```text
+Code is more than syntax.
+It's about solving real problems,
+building useful experiences,
+and improving with every project.
+```
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+<div align="center">
+
+If you enjoy my work or find something useful, you can support my developer journey.
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=000000)](https://buymeacoffee.com/venokbilshan@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Open to Learning • Collaboration • Building • Creating
+
+### 💻 Code  •  🎨 Create  •  🧠 Learn  •  🚀 Deploy  •  🔁 Improve
+
+<br/>
+
+**Thanks for visiting my GitHub profile! 👋**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=130&section=footer" width="100%" />
+
+</div>
